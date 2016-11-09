@@ -14,7 +14,8 @@ img {
 h1 {
   color: #ff8533;
   font-family: Shrikhand;
-  font-size: 50px;
+  font-size: 40px;
+  line-height: 40px;
 }
 
 a {
