@@ -40,6 +40,7 @@ td {
 .icons {
   font-size: 40px;
   display: inline-block;
+  color: #ff8533;
 }
 
 .container {
@@ -54,12 +55,18 @@ td {
   border-radius: 10%;
 }
 
-.fa {
+.icons i{
   margin: 30px;
+  color: #ff8533;
+}
+
+.icons i:hover {
+  color:#333333;
 }
 
 .description {
   margin-top: 30px;
+  border-radius: 80px;
 }
 .table-breath{
   padding-right: 5px;
